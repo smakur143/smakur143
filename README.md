@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ### Hi Myself Souvik Makur
 A tech enthusiast with in depth knowledge of Data
 Structure and Algorithms
