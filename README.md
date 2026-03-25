@@ -120,6 +120,8 @@ class SouvikMakur:
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=smakur143&amp;repo=Pizza-Wallah&amp;theme=radical&amp;border_color=00ffff&amp;title_color=00ffff&amp;icon_color=ff00ff&amp;text_color=ffffff&amp;bg_color=0d0d0d)](https://github.com/smakur143)
 
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=smakur143&amp;repo=Portfolio&amp;theme=radical&amp;border_color=00ffff&amp;title_color=00ffff&amp;icon_color=ff00ff&amp;text_color=ffffff&amp;bg_color=0d0d0d)](https://github.com/smakur143)
+
 > 💡 **Pin your best AI/ML repos** above by replacing `repo=` with your actual repository names!
 
 </div>
