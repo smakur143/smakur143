@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d0d0d,50:003333,100:0d0d0d&text=SOUVIK%20MAKUR&fontSize=65&fontColor=00ffff&animation=fadeIn&stroke=00ffff&strokeWidth=1&desc=AI%20%2F%20ML%20Engineer%20%26%20Startup%20Founder&descSize=20&descAlignY=80&descColor=ff00ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:0d0d0d,50:003333,100:0d0d0d&amp;text=SOUVIK%20MAKUR&amp;fontSize=65&amp;fontColor=00ffff&amp;animation=fadeIn&amp;stroke=00ffff&amp;strokeWidth=1&amp;desc=AI%20%2F%20ML%20Engineer%20%26%20Startup%20Founder&amp;descSize=20&amp;descAlignY=80&amp;descColor=ff00ff" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%26+ML;LLMs+%7C+GenAI+%7C+Computer+Vision+%7C+NLP;Startup+Founder+%7C+AI+Product+Builder;Turning+Neural+Networks+into+Real+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+the+Future+with+AI+%26+ML;LLMs+%7C+GenAI+%7C+Computer+Vision+%7C+NLP;Startup+Founder+%7C+AI+Product+Builder;Turning+Neural+Networks+into+Real+Products" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Views + Followers + GitHub Stars -->
-<img src="https://komarev.com/ghpvc/?username=smakur143&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=smakur143&amp;label=PROFILE+VIEWS&amp;color=00ffff&amp;style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/smakur143?label=FOLLOWERS&style=for-the-badge&color=ff00ff&labelColor=0d0d0d" />
+<img src="https://img.shields.io/github/followers/smakur143?label=FOLLOWERS&amp;style=for-the-badge&amp;color=ff00ff&amp;labelColor=0d0d0d" />
 
 </div>
 
@@ -118,7 +118,7 @@ class SouvikMakur:
 
 <!-- PROJECT CARDS — replace with your real projects -->
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=smakur143&repo=smakur143&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d0d)](https://github.com/smakur143)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=smakur143&amp;repo=smakur143&amp;theme=radical&amp;border_color=00ffff&amp;title_color=00ffff&amp;icon_color=ff00ff&amp;text_color=ffffff&amp;bg_color=0d0d0d)](https://github.com/smakur143)
 
 > 💡 **Pin your best AI/ML repos** above by replacing `repo=` with your actual repository names!
 
@@ -142,12 +142,12 @@ class SouvikMakur:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smakur143&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d0d&hide_border=false&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=smakur143&theme=radical&border=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&background=0d0d0d" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smakur143&amp;show_icons=true&amp;theme=radical&amp;border_color=00ffff&amp;title_color=00ffff&amp;icon_color=ff00ff&amp;text_color=ffffff&amp;bg_color=0d0d0d&amp;hide_border=false&amp;count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=smakur143&amp;theme=radical&amp;border=00ffff&amp;ring=ff00ff&amp;fire=ff00ff&amp;currStreakLabel=00ffff&amp;sideLabels=00ffff&amp;background=0d0d0d" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=smakur143&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&text_color=ffffff&bg_color=0d0d0d&layout=compact&langs_count=8" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=smakur143&amp;show_icons=true&amp;theme=radical&amp;border_color=00ffff&amp;title_color=00ffff&amp;text_color=ffffff&amp;bg_color=0d0d0d&amp;layout=compact&amp;langs_count=8" />
 
 </div>
 
