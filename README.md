@@ -1,31 +1,192 @@
-![logo](https://github.com/smakur143/smakur143/blob/main/PROFILE%20BANNER.png)
-<h1 align="center">Hi 👋, I'm Souvik Makur</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<div align="center">
 
-<!-- <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"> -->
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=SOUVIK%20MAKUR&fontSize=70&fontColor=00ffff&animation=fadeIn&stroke=00ffff&strokeWidth=2&desc=AI%20%7C%20ML%20Engineer%20%26%20Startup%20Founder&descSize=20&descAlignY=78&descColor=ff00ff" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smakur143&label=Profile%20views&color=0e75b6&style=flat" alt="smakur143" /> </p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Building+the+Future+with+AI+%26+ML;🧠+LLMs+%7C+GenAI+%7C+Computer+Vision+%7C+NLP;🚀+Startup+Founder+%7C+AI+Product+Builder;⚡+Turning+Neural+Networks+into+Real+Products" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me: **souvikmakur2003@gmail.com**
+<br/>
 
-- ⚡ Fun fact: **GitHub is like a universe of code, and every commit is a star. The more you commit, the brighter your constellation shines!**
+<!-- Profile Views + Followers + GitHub Stars -->
+<img src="https://komarev.com/ghpvc/?username=smakur143&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/smakur143?label=FOLLOWERS&style=for-the-badge&color=ff00ff&labelColor=0d0d0d" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/souvikmakurju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvikmakurju" height="30" width="40" /></a>
-<a href="https://fb.com/sonu9563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonu9563" height="30" width="40" /></a>
-<a href="https://instagram.com/souvikmakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvikmakur" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/souvik7001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="souvik7001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/souvikmakur143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="souvikmakur143" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sonu1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sonu1012" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/souvikmakur143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souvikmakur143" height="30" width="40" /></a>
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    ██╗   ██╗ ██████╗ ██╗   ██╗    █████╗ ██████╗ ███████╗          ║
+║    ╚██╗ ██╔╝██╔═══██╗██║   ██║   ██╔══██╗██╔══██╗██╔════╝          ║
+║     ╚████╔╝ ██║   ██║██║   ██║   ███████║██████╔╝█████╗            ║
+║      ╚██╔╝  ██║   ██║██║   ██║   ██╔══██║██╔══██╗██╔══╝            ║
+║       ██║   ╚██████╔╝╚██████╔╝   ██║  ██║██║  ██║███████╗          ║
+║       ╚═╝    ╚═════╝  ╚═════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝          ║
+║                                                                      ║
+║         [ AI/ML ENGINEER ]  ◆  [ STARTUP FOUNDER ]                  ║
+║         [ LLMs · GenAI · CV · NLP · Data Science ]                  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `> whoami`
+
+```python
+class SouvikMakur:
+    def __init__(self):
+        self.name        = "Souvik Makur"
+        self.role        = ["AI/ML Engineer", "Startup Founder", "Full Stack Dev"]
+        self.location    = "🇮🇳 India"
+        self.focus       = ["LLMs", "Generative AI", "Computer Vision", "NLP"]
+        self.building    = "AI-powered products that solve real problems"
+        self.superpower  = "Turning research papers into production systems"
+        self.contact     = "souvikmakur2003@gmail.com"
+
+    def life_motto(self):
+        return "⚡ Every model trained is a step closer to the future."
+```
+
+---
+
+## `> cat ai_expertise.json`
+
+<div align="center">
+
+| 🧠 Domain | 🛠️ What I Build |
+|-----------|----------------|
+| **LLMs & Generative AI** | RAG pipelines, fine-tuned models, AI agents, prompt engineering |
+| **Computer Vision** | Object detection, image classification, real-time CV systems |
+| **NLP & Text AI** | Sentiment analysis, text summarization, semantic search |
+| **Data Science & Analytics** | Predictive modeling, data pipelines, ML dashboards |
+
+</div>
+
+---
+
+## `> ls skills/`
+
+### ⚡ AI / ML Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-00ffff?style=for-the-badge&logo=python&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/PyTorch-FF00FF?style=for-the-badge&logo=pytorch&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/TensorFlow-ff6600?style=for-the-badge&logo=tensorflow&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/LangChain-00ff99?style=for-the-badge&logo=chainlink&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00ffff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌐 Full Stack Arsenal
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smakur143&show_icons=true&locale=en&layout=compact" alt="smakur143" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-00ffff?style=for-the-badge&logo=react&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Next.js-ff00ff?style=for-the-badge&logo=next.js&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/TypeScript-0099ff?style=for-the-badge&logo=typescript&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Node.js-00ff99?style=for-the-badge&logo=node.js&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/Docker-00aaff?style=for-the-badge&logo=docker&logoColor=0d0d0d" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smakur143&show_icons=true&locale=en" alt="smakur143" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smakur143&" alt="smakur143" /></p>
+## `> ls projects/ --filter=ai`
+
+<div align="center">
+
+<!-- PROJECT CARDS — replace with your real projects -->
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=smakur143&repo=smakur143&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d0d)](https://github.com/smakur143)
+
+> 💡 **Pin your best AI/ML repos** above by replacing `repo=` with your actual repository names!
+
+</div>
+
+---
+
+## `> cat startup_story.log`
+
+```
+[SYSTEM]   Startup mode: ACTIVE ✅
+[MISSION]  Building AI products that create real-world impact
+[DOMAIN]   Generative AI · Intelligent Automation · AI SaaS
+[STATUS]   Shipping features, training models, breaking things 🚀
+[BELIEF]   The best way to predict the future is to build it with AI
+```
+
+---
+
+## `> git stats --global`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smakur143&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d0d&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=smakur143&theme=radical&border=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&background=0d0d0d" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=smakur143&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&text_color=ffffff&bg_color=0d0d0d&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## `> ping connect --all-channels`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souvik_Makur-00ffff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/souvikmakurju)
+[![Gmail](https://img.shields.io/badge/Email-souvikmakur2003-ff00ff?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:souvikmakur2003@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-souvikmakur143-FFD700?style=for-the-badge&logo=leetcode&logoColor=0d0d0d)](https://leetcode.com/souvikmakur143)
+[![HackerRank](https://img.shields.io/badge/HackerRank-souvikmakur143-00ff99?style=for-the-badge&logo=hackerrank&logoColor=0d0d0d)](https://hackerrank.com/souvikmakur143)
+[![Codeforces](https://img.shields.io/badge/Codeforces-sonu1012-0099ff?style=for-the-badge&logo=codeforces&logoColor=0d0d0d)](https://codeforces.com/profile/sonu1012)
+[![CodeChef](https://img.shields.io/badge/CodeChef-souvik7001-ff6600?style=for-the-badge&logo=codechef&logoColor=0d0d0d)](https://codechef.com/users/souvik7001)
+[![Instagram](https://img.shields.io/badge/Instagram-souvikmakur-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/souvikmakur)
+
+</div>
+
+---
+
+## `> neofetch --quote`
+
+<div align="center">
+
+```
+ ┌─────────────────────────────────────────────────────┐
+ │                                                     │
+ │   "The neural network doesn't see the world         │
+ │    the way humans do — and that's exactly           │
+ │    why it can solve problems humans can't."         │
+ │                                                     │
+ │                          — Souvik Makur, probably   │
+ │                                                     │
+ └─────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer&fontColor=00ffff" />
+
+</div>
+
+<!-- Snake animation — enable via GitHub Actions (see: https://github.com/Platane/snk) -->
+<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/smakur143/smakur143/output/github-contribution-grid-snake-dark.svg" />
+</div>
+-->
