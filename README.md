@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:0d0d0d,50:003333,100:0d0d0d&amp;text=SOUVIK%20MAKUR&amp;fontSize=65&amp;fontColor=00ffff&amp;animation=fadeIn&amp;stroke=00ffff&amp;strokeWidth=1&amp;desc=AI%20%2F%20ML%20Engineer%20%26%20Startup%20Founder&amp;descSize=20&amp;descAlignY=80&amp;descColor=ff00ff" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:0d0d0d,50:003333,100:0d0d0d&amp;text=SOUVIK%20MAKUR&amp;fontSize=65&amp;fontColor=00ffff&amp;animation=fadeIn&amp;stroke=00ffff&amp;strokeWidth=1&amp;desc=AI%20%2F%20ML%20Engineer%20%26%20Startup%20Founder&amp;descSize=20&amp;descAlignY=80&amp;descColor=ff00ff" /> -->
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+the+Future+with+AI+%26+ML;LLMs+%7C+GenAI+%7C+Computer+Vision+%7C+NLP;Startup+Founder+%7C+AI+Product+Builder;Turning+Neural+Networks+into+Real+Products" alt="Typing SVG" />
