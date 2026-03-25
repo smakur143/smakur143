@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=SOUVIK%20MAKUR&fontSize=70&fontColor=00ffff&animation=fadeIn&stroke=00ffff&strokeWidth=2&desc=AI%20%7C%20ML%20Engineer%20%26%20Startup%20Founder&descSize=20&descAlignY=78&descColor=ff00ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d0d0d,50:003333,100:0d0d0d&text=SOUVIK%20MAKUR&fontSize=65&fontColor=00ffff&animation=fadeIn&stroke=00ffff&strokeWidth=1&desc=AI%20%2F%20ML%20Engineer%20%26%20Startup%20Founder&descSize=20&descAlignY=80&descColor=ff00ff" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Building+the+Future+with+AI+%26+ML;🧠+LLMs+%7C+GenAI+%7C+Computer+Vision+%7C+NLP;🚀+Startup+Founder+%7C+AI+Product+Builder;⚡+Turning+Neural+Networks+into+Real+Products" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%26+ML;LLMs+%7C+GenAI+%7C+Computer+Vision+%7C+NLP;Startup+Founder+%7C+AI+Product+Builder;Turning+Neural+Networks+into+Real+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -22,19 +20,26 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    ██╗   ██╗ ██████╗ ██╗   ██╗    █████╗ ██████╗ ███████╗          ║
-║    ╚██╗ ██╔╝██╔═══██╗██║   ██║   ██╔══██╗██╔══██╗██╔════╝          ║
-║     ╚████╔╝ ██║   ██║██║   ██║   ███████║██████╔╝█████╗            ║
-║      ╚██╔╝  ██║   ██║██║   ██║   ██╔══██║██╔══██╗██╔══╝            ║
-║       ██║   ╚██████╔╝╚██████╔╝   ██║  ██║██║  ██║███████╗          ║
-║       ╚═╝    ╚═════╝  ╚═════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝          ║
-║                                                                      ║
-║         [ AI/ML ENGINEER ]  ◆  [ STARTUP FOUNDER ]                  ║
-║         [ LLMs · GenAI · CV · NLP · Data Science ]                  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║   ███████╗ ██████╗ ██╗   ██╗██╗   ██╗██╗██╗  ██╗                               ║
+║   ██╔════╝██╔═══██╗██║   ██║██║   ██║██║██║ ██╔╝                               ║
+║   ███████╗██║   ██║██║   ██║██║   ██║██║█████╔╝                                ║
+║   ╚════██║██║   ██║██║   ██║╚██╗ ██╔╝██║██╔═██╗                                ║
+║   ███████║╚██████╔╝╚██████╔╝ ╚████╔╝ ██║██║  ██╗                               ║
+║   ╚══════╝ ╚═════╝  ╚═════╝   ╚═══╝  ╚═╝╚═╝  ╚═╝                               ║
+║                                                                                  ║
+║   ███╗   ███╗ █████╗ ██╗  ██╗██╗   ██╗██████╗                                  ║
+║   ████╗ ████║██╔══██╗██║ ██╔╝██║   ██║██╔══██╗                                 ║
+║   ██╔████╔██║███████║█████╔╝ ██║   ██║██████╔╝                                 ║
+║   ██║╚██╔╝██║██╔══██║██╔═██╗ ██║   ██║██╔══██╗                                 ║
+║   ██║ ╚═╝ ██║██║  ██║██║  ██╗╚██████╔╝██║  ██║                                 ║
+║   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝                                ║
+║                                                                                  ║
+║              [ AI/ML ENGINEER ]  ◆  [ STARTUP FOUNDER ]                         ║
+║              [ LLMs · GenAI · CV · NLP · Data Science ]                         ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -138,7 +143,7 @@ class SouvikMakur:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smakur143&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d0d&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=smakur143&theme=radical&border=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&background=0d0d0d" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=smakur143&theme=radical&border=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&background=0d0d0d" />
 
 <br/><br/>
 
