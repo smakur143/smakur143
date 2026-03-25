@@ -161,7 +161,7 @@ class SouvikMakur:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Souvik_Makur-00ffff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/souvikmakurju)
 [![Gmail](https://img.shields.io/badge/Email-souvikmakur2003-ff00ff?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:souvikmakur2003@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-souvikmakur143-FFD700?style=for-the-badge&logo=leetcode&logoColor=0d0d0d)](https://leetcode.com/souvikmakur143)
-[![HackerRank]([https://img.shields.io/badge/HackerRank-souvikmakur143-00ff99?style=for-the-badge&logo=hackerrank&logoColor=0d0d0d](https://img.shields.io/badge/Portfolio-Souvik%20Makur-00ff99?style=for-the-badge&logo=hackerrank&logoColor=0d0d0d))](https://portfoliosouvik-souvik-makurs-projects.vercel.app/))
+[![HackerRank](https://img.shields.io/badge/Portfolio-Souvik%20Makur-00ff99?style=for-the-badge&logo=hackerrank&logoColor=0d0d0d))](https://portfoliosouvik-souvik-makurs-projects.vercel.app/))
 [![Codeforces](https://img.shields.io/badge/Codeforces-sonu1012-0099ff?style=for-the-badge&logo=codeforces&logoColor=0d0d0d)](https://codeforces.com/profile/sonu1012)
 [![CodeChef](https://img.shields.io/badge/CodeChef-souvik7001-ff6600?style=for-the-badge&logo=codechef&logoColor=0d0d0d)](https://codechef.com/users/souvik7001)
 [![Instagram](https://img.shields.io/badge/Instagram-souvikmakur-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/souvikmakur)
